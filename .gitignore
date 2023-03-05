@@ -1,0 +1,27 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and data files
+logs/
+data/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore pipfile.lock
+Pipfile.lock
+
+# Ignore testing related files
+.coverage
+.pytest_cache/
+nosetests.xml
+
+# Ignore any other files or directories that you don't want to track in git
